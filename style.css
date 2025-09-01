@@ -1,4 +1,13 @@
 html {
+  give the header a blue background and white text;
+  
   height: 100%;
   width: 100%;
+}
+
+header {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  text-align: center;
 }
